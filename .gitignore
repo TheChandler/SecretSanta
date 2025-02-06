@@ -1,0 +1,8 @@
+notes.txt
+*.zip
+game/sound/*
+game/images/*
+build/*
+node_modules/*
+game/sound*
+.tmp.driveupload
