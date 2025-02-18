@@ -4,6 +4,6 @@
   },
   "scripts": {
     "start": "http-server",
-    "build": "tsc --watch"
+    "build": "tsc"
   }
 }
